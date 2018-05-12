@@ -1,0 +1,58 @@
+_repo: Saracinesca_13757
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crawford, F. Marion (Francis Marion)
+    alias: Crawford, Francis Marion
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '1316'
+    url: http://www.gutenberg.org/2009/agents/1316
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
+description: "Saracinesca is a novel by F. Marion Crawford, first published as a serial\
+  \ in Blackwood's Magazine and then as a book in New York (Macmillan) and Edinburgh\
+  \ (Blackwood) in 1887. Set chiefly in Rome of twenty years earlier, the novel paints\
+  \ a rich picture of the period, detailing the spiritual and economic problems of\
+  \ the aristocracy at a time when its influence and status were under attack from\
+  \ the emerging forces of modernity. This romance tells the tale of Giovanni Saracinesca\
+  \ and his courting of Corona d'Astradente, complete with intrigue and sword fights\
+  \ (Crawford was an expert fencer). It can be categorized as a work of historical\
+  \ fiction in that it relates a time when the author was only a child, and also in\
+  \ the sense that the particulars of that time and place are carefully delineated.\
+  \ In a sense, Crawford had been researching for this book all his life: his parents\
+  \ had witnessed the brief 1848 revolution, and his cousin, in her memoirs of Crawford,\
+  \ insisted that \"[t]here is little doubt that Crawford as a boy had heard first-hand\
+  \ descriptions of [the] exciting events\" of the 1860s.\nSaracinesca proved to be\
+  \ both an immediate hit and Crawford's greatest critical success. It was also a\
+  \ commercial triumph: he negotiated separate contracts for the serial printing and\
+  \ the simultaneous American and British publication, as well as future royalties.\
+  \ He followed it with two brilliant sequels, Sant' Ilario and Don Orsino, the three\
+  \ of which are usually considered a trilogy. Subsequent sequels, such as Corleone,\
+  \ continue the saga of Saracinesca family, but with a diversion from the previous\
+  \ focus on the drama and status of family members into heavily plotted, incident-heavy\
+  \ melodrama. Characters from Saracinesca and its sequels also appear in A Lady of\
+  \ Rome (1906) and The White Sister (1909).\nCrawford, though an American by parentage\
+  \ and citizenship, was born in the Italian resort of Bagni de Lucca, spent most\
+  \ of his life abroad, and wrote Saracinesca while living in Sant' Agnello di Sorrento,\
+  \ Italy.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13757'
+  wikidata: Q7421952
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Family -- Fiction'
+- !lcsh 'Religion -- Fiction'
+title: Saracinesca
+url: http://www.gutenberg.org/ebooks/13757
+wikipedia:
+- https://en.wikipedia.org/wiki/Saracinesca
