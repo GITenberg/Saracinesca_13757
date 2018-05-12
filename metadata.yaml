@@ -38,6 +38,8 @@ description: "Saracinesca is a novel by F. Marion Crawford, first published as a
   \ and citizenship, was born in the Italian resort of Bagni de Lucca, spent most\
   \ of his life abroad, and wrote Saracinesca while living in Sant' Agnello di Sorrento,\
   \ Italy.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13757#Saracinesca
 gutenberg_issued: '2004-10-15'
 gutenberg_type: Text
 identifiers:
